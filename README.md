@@ -54,7 +54,7 @@ assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
 
-Developed by: ZAFREEN J  RegisterNumber:*/ 212223040252
+Developed by:Vimala Rani A  RegisterNumber:*/ 212223040240
 **TRUTH TABLE**
 ![Screenshot 2024-04-09 091052](https://github.com/ZafreenJagir/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870573/5d1ae602-40ce-4de0-8a30-5b9703c97228)
 
